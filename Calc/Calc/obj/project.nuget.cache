@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tIAtu6/4if0QkyunSeg7Ljmg7Kpo3AvtWEMhgAPQ1Tnr0rscpYMe8To0uibhCNdo9gkhAebMLDZpcHRgXsjSXA==",
+  "success": true,
+  "projectFilePath": "D:\\Indeed2\\Phase-3\\Daily-Exercises\\Day-6\\Calc\\Calc\\Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
